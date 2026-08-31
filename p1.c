@@ -2,13 +2,16 @@
 #include <stdbool.h>
 void main()
 {
-int=25;
-float b=38.85;
-char c='b';
-double d=88.45;
-bool e=true;
-printf("the address of variable a is %p \n",& a);
-printf("the address of variable a is %p \n",& b);
-printf("the address of variable a is %p \n",& c);
-printf("the address of variable a is %p \n", & d);
+    int a=28;
+    float b=38.65;
+    char='b';
+    double d=88.45;
+    bool e=true;
+    printf("The address of variable is a %p \n",& a);
+    printf("The address of variable is a %p \n",& b);
+    printf("The address of variable is a %p \n",& c);
+    printf("The address of variable is a %p \n",& d);
+
+
+
 }
