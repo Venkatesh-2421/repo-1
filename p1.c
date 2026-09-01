@@ -11,7 +11,4 @@ void main()
     printf("The address of variable is a %p \n",& b);
     printf("The address of variable is a %p \n",& c);
     printf("The address of variable is a %p \n",& d);
-
-
-
 }
